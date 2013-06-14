@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby "1.9.3"
 
 gem 'rails', '3.1.10'
 
@@ -53,5 +54,5 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'mysql2'
-# gem 'pg'
+#gem 'mysql2'
+gem 'pg'
