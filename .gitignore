@@ -1,4 +1,5 @@
 .bundle
+help/*
 .DS_Store
 config/database.yml
 db/*.sqlite3*
